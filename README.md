@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Anthony8845
-- My portfolio
+👋 Hi, I’m @Anthony8845
+  My portfolio:
 - https://weather-h7ls3r27k-anthony8845.vercel.app/ - React app
 - https://anthony8845.github.io/processing24/
 - https://anthony8845.github.io/ITSoftTest/
